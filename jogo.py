@@ -6,7 +6,7 @@ def resultado():
     variavel_grafico = 0
     y = [0] # é nescessário iniciar a lista y em 'zero', porque la no if
             # desempeho em gráfico será dado append nos resultados e a variável Y
-            # vai garantir que o gráfrico inicie em zero
+            # vai garantir que o gráfrico inicie em zero.
     grafico = []
     erro_n1 = []
     erro_n2 = []
