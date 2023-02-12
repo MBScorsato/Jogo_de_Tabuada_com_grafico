@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 # pip install matplotlib
 
 
-
 def resultado():
     variavel_grafico = 0
     y = [0] # é nescessário iniciar a lista y em 'zero', porque la no if
